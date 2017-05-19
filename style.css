@@ -1,0 +1,41 @@
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arabic Typesetting;
+    font-size: 40px;
+}
+
+hadith {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arabic Typesetting;
+    font-size: 40px;
+}
+
+Poetry {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    font-family: Arabic Typesetting;
+    font-size: 40px;
+    position: absolute;
+    top: 370px;
+    left: 90px;
+    color: white
+}
